@@ -1,0 +1,11 @@
+# Archivos compilados
+*.o
+*.out
+*.exe
+
+# Archivos generados
+*.log
+*.tmp
+
+# Archivos del editor (VS Code)
+.vscode/
