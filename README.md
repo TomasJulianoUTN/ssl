@@ -4,8 +4,6 @@
 
 ## Tomás Juliano
 
-- 2150414
-- K2102
-- 2025 (cursada anual)
-
----
+- Legajo 2150414
+- Comisión K2102
+- Cursada 2025
